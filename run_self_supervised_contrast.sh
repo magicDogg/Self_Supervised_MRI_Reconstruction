@@ -1,1 +1,0 @@
-python run_self_supervised_contrast.py
