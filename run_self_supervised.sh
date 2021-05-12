@@ -1,0 +1,1 @@
+python run_self_supervised.py
