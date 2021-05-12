@@ -1,4 +1,4 @@
-# self_supervised_MRI
+# self_supervised_MRI_Reconstruction
 
 Here is the list of supporting features:
 
