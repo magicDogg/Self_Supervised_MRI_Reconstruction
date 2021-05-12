@@ -1,6 +1,7 @@
 # self_supervised_MRI_Reconstruction
 
-Here is the list of supporting features:
+Here is the list of supporting training methods:
+
 
 1) Traditional Supervised Learning Method proposed by Facebook Research Group
 
@@ -9,4 +10,4 @@ Here is the list of supporting features:
 3) Original Self-supervised Method using Contrastive Loss & Data Augmentation Method
 
 
-All of the training methods utilize fastMRI dataset
+All of the supporting methods are trained utilizing fastMRI dataset
